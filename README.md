@@ -7,7 +7,8 @@
 Основной стек технологий:
 Python
 
-Пример создания графа - https://github.com/HopeJesus55/Beliiy_Yazhik_Uborka_dorog/blob/main/graf_example.jpg
+Пример графа - https://github.com/HopeJesus55/Beliiy_Yazhik_Uborka_dorog/blob/main/graf_example.jpg
+
 Работа алгоритма и рассчет маршрута - https://github.com/HopeJesus55/Beliiy_Yazhik_Uborka_dorog/blob/main/route_builder.py
 
 Веб-сайт, содержащий итоговые маршруты - https://maryandgraynan.wixsite.com/my-site
